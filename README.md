@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 
   
   ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### :fire: My Stats :
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Abi1327&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
