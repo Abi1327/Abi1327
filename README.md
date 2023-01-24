@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abi1327&theme=dark&background=000000)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Abi1327&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
